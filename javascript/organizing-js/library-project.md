@@ -322,3 +322,4 @@ Send us your solution so we can show others! Submit a link below to this [file](
 - [alxmkh’s solution (w/localstorage)](https://github.com/alxmkh/library) - [View in Browser](https://alxmkh.github.io/library/)
 - [faishalirwn’s solution (w/localstorage)](https://github.com/faishalirwn/library) - [View in Browser](https://faishalirwn.github.io/library/)
 </details>
+- [Ethan Anthony's Solution](https://github.com/BeingPool/Ethan-s-Library) - [View in Browser](https://beingpool.github.io/Ethan-s-Library/)
